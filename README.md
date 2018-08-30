@@ -1,7 +1,7 @@
         @Auhtor
         Sahr Thomas Acton
 
-<b> #### Currently at Lecture 5 #### <b>
+<b> #### Currently at Lecture 5 #### </b>
 
         How to execute code: Use Nodejs to execute code
 
@@ -20,8 +20,8 @@ and Dijkstra’s Shortest Path Algorithm.
 
 ## Modules
 
-- Introduction - <b>Done<b>
-- Big O Notation - <b> Currently working on!<b>
+- Introduction - <b>Done</b>
+- Big O Notation - <b> Currently working on!</b>
 - Analyzing Performance of Arrays and Objects
 - Problem Solving Approach
 - Problem Solving Patterns
