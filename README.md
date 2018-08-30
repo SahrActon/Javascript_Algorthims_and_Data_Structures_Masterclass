@@ -1,9 +1,9 @@
-### @Auhtor
-#### Sahr Thomas Acton
+        @Auhtor
+        Sahr Thomas Acton
 
-#### Currently at Lecture 5 ####
+<b> #### Currently at Lecture 5 #### <b>
 
-Use Nodejs to execute code
+        How to execute code: Use Nodejs to execute code
 
 ## The Missing Computer Science and Coding Interview Bootcamp
 - HIGHEST RATED
@@ -20,8 +20,8 @@ and Dijkstra’s Shortest Path Algorithm.
 
 ## Modules
 
-- Introduction - Done
-- Big O Notation - Currently working on!
+- Introduction - <b>Done<b>
+- Big O Notation - <b> Currently working on!<b>
 - Analyzing Performance of Arrays and Objects
 - Problem Solving Approach
 - Problem Solving Patterns
