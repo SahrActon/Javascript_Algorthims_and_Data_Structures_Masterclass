@@ -20,32 +20,32 @@ and Dijkstra’s Shortest Path Algorithm.
 
 ## Modules
 
-- Introduction - <b>Done</b>
-- Big O Notation - <b> Currently working on!</b>
-- Analyzing Performance of Arrays and Objects
-- Problem Solving Approach
-- Problem Solving Patterns
-- 100% OPTIONAL Challenges
-- Recursion
-- Recursion Problem Set
-- Bonus CHALLENGING Recursion Problems
-- Searching Algorithms
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Comparing Bubble, Selection, and Insertion Sort
-- Merge Sort
-- Quick Sort
-- Radix Sort
-- Data Structures Introduction
-- Singly Linked Lists
-- Doubly Linked Lists
-- Stacks + Queues
-- Binary Search Trees
-- Tree Traversal
-- Binary Heaps
-- Hash Tables
-- Graphs
-- Graph Traversal
-- Dijkstra's Algorithm!
-- The Wild West
+- [x] Introduction - <b>Done</b>
+- [ ] Big O Notation - <b> Currently working on!</b>
+- [ ] Analyzing Performance of Arrays and Objects
+- [ ] Problem Solving Approach
+- [ ] Problem Solving Patterns
+- [ ] 100% OPTIONAL Challenges
+- [ ] Recursion
+- [ ] Recursion Problem Set
+- [ ] Bonus CHALLENGING Recursion Problems
+- [ ] Searching Algorithms
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Comparing Bubble, Selection, and Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Radix Sort
+- [ ] Data Structures Introduction
+- [ ] Singly Linked Lists
+- [ ] Doubly Linked Lists
+- [ ] Stacks + Queues
+- [ ] Binary Search Trees
+- [ ] Tree Traversal
+- [ ] Binary Heaps
+- [ ] Hash Tables
+- [ ] Graphs
+- [ ] Graph Traversal
+- [ ] Dijkstra's Algorithm!
+- [ ] The Wild West
