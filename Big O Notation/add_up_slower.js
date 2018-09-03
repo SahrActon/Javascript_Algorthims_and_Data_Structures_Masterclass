@@ -17,3 +17,6 @@ let t1 = performance.now();
 addUpTo(1000000000);
 let t2 = performance.now();
 console.log('Time Spent' + ((t2 - t1) / 1000) + ' second');
+
+/*The Big O for the this is  */
+/** O(n) **/
