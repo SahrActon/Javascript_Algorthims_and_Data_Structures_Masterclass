@@ -21,8 +21,8 @@ and Dijkstra’s Shortest Path Algorithm.
 ## Modules
 
 - [x] Introduction - <b>Done </b>
-- [ ] Big O Notation - <b>Done </b>
-- [ ] Analyzing Performance of Arrays and Objects - <b>Done </b>
+- [x] Big O Notation - <b>Done </b>
+- [x] Analyzing Performance of Arrays and Objects - <b>Done </b>
 - [ ] Problem Solving Approach - <b> Currently working on!</b>
 - [ ] Problem Solving Patterns
 - [ ] 100% OPTIONAL Challenges
