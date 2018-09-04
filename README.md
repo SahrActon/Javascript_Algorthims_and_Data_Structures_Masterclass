@@ -20,10 +20,10 @@ and Dijkstra’s Shortest Path Algorithm.
 
 ## Modules
 
-- [x] Introduction - <b>Done</b>
-- [ ] Big O Notation - <b> Currently working on!</b>
-- [ ] Analyzing Performance of Arrays and Objects
-- [ ] Problem Solving Approach
+- [x] Introduction - <b>Done </b>
+- [ ] Big O Notation - <b>Done </b>
+- [ ] Analyzing Performance of Arrays and Objects - <b>Done </b>
+- [ ] Problem Solving Approach - <b> Currently working on!</b>
 - [ ] Problem Solving Patterns
 - [ ] 100% OPTIONAL Challenges
 - [ ] Recursion
