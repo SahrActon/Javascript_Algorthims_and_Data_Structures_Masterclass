@@ -17,6 +17,6 @@ charCount("hello"); // {h:1, e:1, l:2, 0:1}
  * */
 
 
-function stringCounter() {
+function charCount() {
     
 }
