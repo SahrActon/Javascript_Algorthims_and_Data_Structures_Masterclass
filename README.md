@@ -1,8 +1,8 @@
         @Auhtor
         Sahr Thomas Acton
 
-<b> #### Currently at Lecture 23 #### </b>
-
+<b> #### Currently at Lecture 27 #### </b>
+        # Self note: I need to do lecture 27 again
         How to execute code: Use Nodejs to execute code
 
 ## The Missing Computer Science and Coding Interview Bootcamp
@@ -23,8 +23,8 @@ and Dijkstra’s Shortest Path Algorithm.
 - [x] Introduction - <b>Done </b>
 - [x] Big O Notation - <b>Done </b>
 - [x] Analyzing Performance of Arrays and Objects - <b>Done </b>
-- [ ] Problem Solving Approach - <b> Currently working on!</b>
-- [ ] Problem Solving Patterns
+- [ ] Problem Solving Approach - <b>Done </b>
+- [ ] Problem Solving Patterns - <b> Currently working on!</b>
 - [ ] 100% OPTIONAL Challenges
 - [ ] Recursion
 - [ ] Recursion Problem Set
