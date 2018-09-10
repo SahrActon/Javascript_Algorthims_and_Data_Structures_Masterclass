@@ -23,14 +23,13 @@ function same(arr1, arr2){
         }
     }
     console.log(frequencyCount1);
-    console.log('\n');
     console.log(frequencyCount2);
+    console.log('\n');
     return true;
 }
 
 // Two different loops is always better than two nested loops
 
 console.log(same([1,2,3],[4,1,9])); // true
-console.log(same([1,2,3],[1,9])); // false
-console.log(same([1,2,1],[4,4,1])); // false (must be same frequency)
+console.log(same([2,2,3],[4,4,9])); // false
 console.log('\n');
