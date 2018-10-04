@@ -24,8 +24,8 @@ and Dijkstra’s Shortest Path Algorithm.
 - [x] Big O Notation - <b>Done </b>
 - [x] Analyzing Performance of Arrays and Objects - <b>Done </b>
 - [x] Problem Solving Approach - <b>Done </b>
-- [x] Problem Solving Patterns - <b> Currently working on!</b>
-- [ ] 100% OPTIONAL Challenges
+- [x] Problem Solving Patterns - <b>Done </b>
+- [ ] 100% OPTIONAL Challenges - <b> Currently working on!</b>
 - [ ] Recursion
 - [ ] Recursion Problem Set
 - [ ] Bonus CHALLENGING Recursion Problems
