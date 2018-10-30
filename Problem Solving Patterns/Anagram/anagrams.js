@@ -6,7 +6,7 @@ such as cinema, formed from iceman.
 
 function validAnagram(word1, word2) {
     /*Checking for valid frequency only
-    * If the two words dont have the same amounts of letters/char exit
+    * If the two words dont have the same amounts of letters/char exit0
     * */
 
     if (word1.length !== word2.length) {
@@ -40,6 +40,7 @@ console.log(validAnagram('', ''));
 console.log(validAnagram('tac', 'cat'));
 console.log(validAnagram('zaaz', 'zzaa'));
 console.log(validAnagram('anagram', 'nagarm'));
+console.log(validAnagram('ghj', 'nagarm'));
 
 
 
