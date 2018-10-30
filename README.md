@@ -25,9 +25,9 @@ and Dijkstra’s Shortest Path Algorithm.
 - [x] Analyzing Performance of Arrays and Objects - <b>Done </b>
 - [x] Problem Solving Approach - <b>Done </b>
 - [x] Problem Solving Patterns - <b>Done </b>
-- [ ] 100% OPTIONAL Challenges - <b>Skipped this - Need to come back to this </b>
-- [ ] Recursion - <b> Currently working on!</b>
-- [ ] Recursion Problem Set
+- [x] 100% OPTIONAL Challenges - <b>Skipped this - Need to come back to this </b>
+- [x] Recursion - <b>Done </b>
+- [ ] Recursion Problem Set - <b> Currently working on!</b>
 - [ ] Bonus CHALLENGING Recursion Problems
 - [ ] Searching Algorithms
 - [ ] Bubble Sort
