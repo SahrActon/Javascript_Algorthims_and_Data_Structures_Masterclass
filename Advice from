@@ -1,0 +1,33 @@
+Hey, Thomas. 
+For now, I think the best thing I can do is point you to the resources that I found most helpful in preparing for the Google interview. 
+
+Also, I don't think I'm the best resource for giving advice on how to get to the interview stage since I did it by stumbling upon one of 
+Google's secret online coding challenges and solving enough of the problems on there to get contacted by a recruiter,
+which isn't a reliably repeatable strategy. But once I got to the interview stage, these were the resources 
+that I found most helpful in preparing for the interview. 
+
+For learning about data structures and algorithms (which most of the coding questions were about)
+this playlist was my favorite resource: MIT 6.006 Introduction to Algorithms, 
+Fall 2011 https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb 
+I also found it really helpful to practice solving coding problems on a whiteboard, especially the 
+types of problems in Cracking the Coding Interview (link in the description) and on the ones on interviewcake.com. 
+It also helped to become very familiar with the programming language I was going to be writing up my coding solutions in. 
+
+Currently, I'm most comfortable with Python, but back then I was more comfortable with JavaScript,
+so before taking the interview in JavaScript, 
+I read a lot of the JS documentation on MDN and took
+this online course which covered a lot of the advanced parts of 
+Javascript: https://www.udemy.com/understand-javascript/ Also, doing the coding 
+challenges on a whiteboard where you don't have any IDE auto suggestions and where 
+you have to remember all the functions and the correct syntax by heart helps to become more familiar with the language you'll be using. 
+
+It also helped to learn about systems building, and get some general understanding of the 
+different infrastructure options you have when building web-based applications, and knowing 
+when you'd want to make certain system design decisions vs others depending on the 
+requirements of an application, and knowing the different tradeoffs that you have to make
+as you scale an application from a few daily users to millions.
+
+Some of the questions I got during the interview were related to systems design. 
+I also found it valuable to do some general research on how the internet works and how 
+computers work to fill in some of the gaps in my knowledge. Hope that helps.
+
