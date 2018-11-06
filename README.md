@@ -27,9 +27,9 @@ and Dijkstra’s Shortest Path Algorithm.
 - [x] Problem Solving Patterns - <b>Done </b>
 - [x] 100% OPTIONAL Challenges - <b>Skipped this - Need to come back to this </b>
 - [x] Recursion - <b>Done </b>
-- [ ] Recursion Problem Set - <b> Currently working on!</b>
-- [ ] Bonus CHALLENGING Recursion Problems
-- [ ] Searching Algorithms
+- [ ] Recursion Problem Set - <b>Done </b>
+- [ ] Bonus CHALLENGING Recursion Problems-  <b>Skipped this - Need to come back to this </b>
+- [ ] Searching Algorithms <b> Currently working on!</b>
 - [ ] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort
