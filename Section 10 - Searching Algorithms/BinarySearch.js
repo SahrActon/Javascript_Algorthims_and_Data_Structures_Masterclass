@@ -1,18 +1,17 @@
 function binarySearch(sortedArray, element) {
 
     let start = 0;
-    let end = sortedArray.slice(-1)[0];
+    let end = sortedArray.length -1;
     let middle = Math.floor((start + end) / 2);
 
-    while(middle !== element){
+    while(sortedArray[middle] !== element && start <= end){
         if (element < sortedArray[middle]){
-                end = middle-1;
+                end = middle - 1;
         } else {
             start = middle +1;
         }
         middle = Math.floor((start + end) / 2);
     }
-    console.log(start,middle,end);
     if(sortedArray[middle] === element) {
         return middle;
     }
@@ -20,4 +19,4 @@ function binarySearch(sortedArray, element) {
 }
 
 
-console.log(binarySearch([1,2,3,4,5],42));
+console.log(binarySearch([5,10,12,30,43,55,77,78,83,84],55));
